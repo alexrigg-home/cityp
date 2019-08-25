@@ -1,4 +1,8 @@
- TO run from command line type:
+To set up you need PHP7.
+phpunit is in composer which requires a composer to be installed and and update.
+
+
+ To run from command line type:
  php src/index.php example-input.txt 27/08/19 16:00 NW43QB 20
 
 
